@@ -11,6 +11,7 @@ This module works with 3.3V only and it doesn’t support 5V
 http://bit.ly/2ONO186
 
 Arduino Library
+
 https://github.com/adafruit/Adafruit-GFX-Library
 
 https://www.arduinolibraries.info/libraries/adafruit-st7735-and-st7789-library
